@@ -12,3 +12,6 @@
 // 8. change file
 // 9. commit
 // 10. publish (sync, pull) 
+
+// create branch develop
+// and checkout branch develop
