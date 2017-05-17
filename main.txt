@@ -3,3 +3,12 @@
 // 3. git add *
 // 4. git commit
 // 5. git push
+
+
+// login sayhs24
+
+// 6. fork
+// 7. clone to local
+// 8. change file
+// 9. commit
+// 10. publish (sync, pull) 
